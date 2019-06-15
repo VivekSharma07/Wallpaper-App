@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768778810827",
+    "firebase_url": "https://loa-app-740cb.firebaseio.com",
+    "project_id": "loa-app-740cb",
+    "storage_bucket": "loa-app-740cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768778810827:android:dc2db1b737b8a4eb",
+        "android_client_info": {
+          "package_name": "com.example.viveksharma.loa_attractyourdesires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768778810827-8v5b3eimsotk3hsm3u2fl0tkkevgnldr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viveksharma.loa_attractyourdesires",
+            "certificate_hash": "8102c0650e7f79c255d403cb25420408c29aaec8"
+          }
+        },
+        {
+          "client_id": "768778810827-a8gm189egi2i9u0nf1jsjsf3f5h3880l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LDkHKSD8whAIyy-RXYyyai4W6N2E1tA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768778810827-a8gm189egi2i9u0nf1jsjsf3f5h3880l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

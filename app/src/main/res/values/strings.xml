@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dope Wallpapers</string>
+    <string name="button">Button</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="love">Love</string>
+    <string name="signed_out">SignedOut</string>
+    <string name="todo">TODO</string>
+    <string name="pussy">Pussy</string>
+    <string name="lucy">Pussy</string>
+    <string name="Category">Minimal</string>
+    <string name="anything">TODO</string>
+
+
+</resources>
